@@ -29,7 +29,7 @@ Using projects and hands on labs to gain experience and knowledge to join a Secu
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 CompTIA CySA+<br>
 CompTIA PenTest+<br>
