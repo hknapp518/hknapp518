@@ -31,8 +31,8 @@ Using projects and hands on labs to gain experience and knowledge to join a Secu
 ## Certifications
 
 <div>
+CompTIA PenTest+(in progress)<br>
 CompTIA CySA+<br>
-CompTIA PenTest+<br>
 AWS Solutions Architect Associate<br>  
 ISC2 Certified in Cybersecurity<br>  
 CompTIA Security +<br>
