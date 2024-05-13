@@ -38,6 +38,7 @@ ISC2 Certified in Cybersecurity<br>
 CompTIA Security +<br>
 CompTIA Network +<br>
 CompTIA Project +<br>
+ <img src= "https://img.shields.io/badge/-CompTIA_CYSA+-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 
 </div>
