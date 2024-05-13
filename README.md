@@ -8,11 +8,8 @@ I am a recent cybersecurity student using GitHub to work on projects.
 
 Using projects and hands on labs to gain experience and knowledge to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Projects
-- Detection Lab
+## Skills/Projects
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
