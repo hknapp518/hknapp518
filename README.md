@@ -14,7 +14,7 @@ Using projects and hands on labs to gain experience and knowledge to join a Secu
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Azure Sentienl Honey Pot | <a href="https://github.com/hknapp518/AzureHoneyPot/tree/main">Honey Pot Lab</a>|
+| Azure Sentienl and Log Analysis | <a href="https://github.com/hknapp518/AzureHoneyPot/tree/main">Honey Pot Lab</a>|
 
 
 
