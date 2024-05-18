@@ -24,14 +24,28 @@ Using projects and hands on labs to gain experience and knowledge to join a Secu
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    
-</div>
+    Splunk<br>
+    Microsoft Sentinel
+
+### IP Repuation
+<div> 
+    Virus Total
+
+### SOAR
+<div>
+    Splunk SOAR or Cortex
+
+### EDR
+<div>
+        CrowdStrike or Microsoft Defender
+
+### IDS/IPS
+<div>
+    Suricata
+
 
 ## Certifications
-
-<div>
+   
 CompTIA PenTest+(in progress)<br>
 CompTIA CySA+<br>
 AWS Solutions Architect Associate<br>  
@@ -39,9 +53,6 @@ ISC2 Certified in Cybersecurity<br>
 CompTIA Security +<br>
 CompTIA Network +<br>
 CompTIA Project +<br>
- <img src= "https://img.shields.io/badge/-CompTIA_CYSA+-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
-
-
 </div>
 
 
