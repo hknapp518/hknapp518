@@ -33,11 +33,11 @@ Using projects and hands on labs to gain experience and knowledge to join a Secu
 
 ### SOAR
 <div>
-    Splunk SOAR or Cortex
+    Splunk SOAR 
 
 ### EDR
 <div>
-        CrowdStrike or Microsoft Defender
+        Microsoft Defender
 
 ### IDS/IPS
 <div>
@@ -48,8 +48,8 @@ Using projects and hands on labs to gain experience and knowledge to join a Secu
    
 CompTIA PenTest+(in progress)<br>
 CompTIA CySA+<br>
-AWS Solutions Architect Associate<br>  
-ISC2 Certified in Cybersecurity<br>  
+AWS Solutions Architect Associate<br>
+ISC2 Certified in Cybersecurity<br>
 CompTIA Security +<br>
 CompTIA Network +<br>
 CompTIA Project +<br>
