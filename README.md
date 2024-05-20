@@ -13,7 +13,7 @@ Using projects and hands on labs to gain experience and knowledge to join a Secu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Splunk, Active Directory, Kali, MITRE ATT&CK, Red Team Atomic          | <a href="https://google.com">Detection Home Lab</a>|
 | Azure Sentienl and Log Analysis | <a href="https://github.com/hknapp518/AzureHoneyPot/tree/main">Honey Pot Lab</a>|
 
 
