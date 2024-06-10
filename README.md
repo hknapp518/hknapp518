@@ -31,9 +31,6 @@ Using projects and hands on labs to gain experience and knowledge to join a Secu
 <div> 
     Virus Total
 
-### SOAR
-<div>
-    Splunk SOAR 
 
 ### EDR
 <div>
