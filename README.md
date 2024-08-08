@@ -2,11 +2,11 @@
 # Hello, I'm Harrison
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cybersecurity student graduating in July using GitHub to work on projects. 
+I am a recent cybersecurity graduate actively using GitHub to work on cybersecurity projects and gain practical experience to advance my career in the field 
 
 ## Objective
 
-Using projects and hands on labs to gain experience and knowledge to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Using projects and hands-on labs to gain practical experience and knowledge with the goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst or contributing to a penetration testing team.
 
 ## Skills/Projects
 
