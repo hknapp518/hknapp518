@@ -43,7 +43,7 @@ Using projects and hands-on labs to gain practical experience and knowledge with
 
 ## Certifications
    
-CompTIA PenTest+(in progress)<br>
+CompTIA PenTest+<br>
 CompTIA CySA+<br>
 AWS Solutions Architect Associate<br>
 ISC2 Certified in Cybersecurity<br>
