@@ -6,15 +6,7 @@ I am a recent cybersecurity graduate actively using GitHub to work on cybersecur
 
 ## Objective
 
-Using projects and hands-on labs to gain practical experience and knowledge with the goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst or contributing to a penetration testing team.
-
-## Skills/Projects
-
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Splunk, Active Directory, Kali, MITRE ATT&CK, Red Team Atomic          | <a href="https://github.com/hknapp518/HomeLab">Detection Home Lab</a>|
-| Azure Sentienl and Log Analysis | <a href="https://github.com/hknapp518/AzureHoneyPot/tree/main">Honey Pot Lab</a>|
+Using projects and hands-on labs to gain practical experience and knowledge in IT
 
 
 
