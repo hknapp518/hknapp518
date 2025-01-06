@@ -2,7 +2,7 @@
 # Hello, I'm Harrison
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent cybersecurity graduate actively using GitHub to work on cybersecurity projects and gain practical experience to advance my career in the field 
+I am a cybersecurity graduate actively using GitHub to work on cybersecurity projects and gain practical experience to advance my career in the field 
 
 ## Objective
 
