@@ -8,30 +8,6 @@ I am a cybersecurity graduate passionate about showcasing my skills and projects
 
 Leveraging hands-on projects and labs to gain practical experience and deepen my knowledge in IT.
 
-
-## Tools
-
-
-
-### SIEM
-<div>
-    Splunk<br>
-    Microsoft Sentinel
-
-### IP Repuation
-<div> 
-    Virus Total
-
-
-### EDR
-<div>
-        Microsoft Defender
-
-### IDS/IPS
-<div>
-    Suricata
-
-
 ## Certifications
    
 CompTIA PenTest+<br>
@@ -43,6 +19,12 @@ CompTIA Network +<br>
 CompTIA Project +<br>
 CompTIA A +<br>
 </div>
+
+## Projects
+
+Detection Home Lab- https://github.com/hknapp518/Detection-HomeLab <br>
+Cisco-Packet-Tracer-Network- https://github.com/hknapp518/Cisco-Packet-Tracer-Network <br>
+Active Directory Enterprise Lab- https://github.com/hknapp518/Active-Directory <br>
 
 
 
