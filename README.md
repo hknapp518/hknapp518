@@ -42,6 +42,7 @@ ISC2 Certified in Cybersecurity<br>
 CompTIA Security +<br>
 CompTIA Network +<br>
 CompTIA Project +<br>
+CompTIA A +<br>
 </div>
 
 
