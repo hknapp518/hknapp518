@@ -1,13 +1,12 @@
-### Hi there 👋
+
 # Hello, I'm Harrison
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cybersecurity graduate actively using GitHub to work on cybersecurity projects and gain practical experience to advance my career in the field 
+I am a cybersecurity graduate passionate about showcasing my skills and projects in cybersecurity, networking, and cloud technologies. I actively use GitHub to display my hands-on work, collaborate on meaningful projects, and expand my expertise in these fields. My goal is to continue advancing my knowledge and contribute to the growing cybersecurity and tech community.
 
 ## Objective
 
-Using projects and hands-on labs to gain practical experience and knowledge in IT
-
+Leveraging hands-on projects and labs to gain practical experience and deepen my knowledge in IT.
 
 
 ## Tools
