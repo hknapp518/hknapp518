@@ -22,7 +22,7 @@ CompTIA A +<br>
 
 ## Projects
 
-Detection Home Lab- https://github.com/hknapp518/Detection-HomeLab <br>
+Splunk Detection Home Lab- https://github.com/hknapp518/Detection-HomeLab <br>
 Cisco-Packet-Tracer-Network- https://github.com/hknapp518/Cisco-Packet-Tracer-Network <br>
 Active Directory Enterprise Lab- https://github.com/hknapp518/Active-Directory <br>
 Azure Honeypot- https://github.com/hknapp518/AzureHoneyPot <br>
