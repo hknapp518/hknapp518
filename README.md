@@ -26,6 +26,7 @@ Splunk Detection Home Lab- https://github.com/hknapp518/Detection-HomeLab <br>
 Tenable Vulnerability Managment https://github.com/hknapp518/Tenable-Vulnerability-Managment/tree/main<br>
 Active Directory Enterprise Lab- https://github.com/hknapp518/Active-Directory <br>
 Azure Honeypot- https://github.com/hknapp518/AzureHoneyPot <br>
+Cisco Packet Tracer Network https://github.com/hknapp518/Cisco-Packet-Tracer-Network <br>
 
 
 
