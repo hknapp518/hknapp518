@@ -1,7 +1,9 @@
 # Hello, I'm Harrison 👋
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/harrison-knapp-175aes" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-I am a **Cybersecurity graduate** passionate about showcasing my skills and projects in **cybersecurity**, **networking**, and **cloud technologies**. I actively use GitHub to present hands-on work, collaborate on meaningful projects, and expand my technical expertise. My goal is to continuously improve and contribute to the growing cybersecurity and tech community.
+I am a Cybersecurity graduate passionate about showcasing my skills and projects in cybersecurity, networking, and cloud technologies. I actively use GitHub to present hands-on work, collaborate on meaningful projects, and expand my technical expertise. My goal is to continuously improve and contribute to the growing cybersecurity and tech community.
 
 ---
 
@@ -15,8 +17,8 @@ To gain practical, real-world experience through hands-on labs and projects that
 
 - CompTIA PenTest+
 - CompTIA CySA+
-- AWS Solutions Architect – Associate
-- ISC2 Certified in Cybersecurity (CC)
+- AWS Solutions Architect Associate
+- ISC2 Certified in Cybersecurity
 - CompTIA Security+
 - CompTIA Network+
 - CompTIA Project+
