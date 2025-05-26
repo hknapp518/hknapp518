@@ -26,15 +26,16 @@ To gain practical, real-world experience through hands-on labs and projects that
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 | Project | Description |
 |--------|-------------|
-| [Splunk Detection Home Lab](https://github.com/hknapp518/Detection-HomeLab) | Custom-built home lab using Splunk for threat detection and log analysis. |
-| [Tenable Vulnerability Management](https://github.com/hknapp518/Tenable-Vulnerability-Managment) | Vulnerability scans and reporting using Tenable.io/Nessus. |
-| [Active Directory Enterprise Lab](https://github.com/hknapp518/Active-Directory) | Windows Server 2019-based AD setup with 100 user roles, GPOs, and permissions. |
-| [Azure Honeypot](https://github.com/hknapp518/AzureHoneyPot) | Deployed honeypots in Azure to analyze attacker behavior and network telemetry. |
-| [Cisco Packet Tracer Network](https://github.com/hknapp518/Cisco-Packet-Tracer-Network) | Simulated enterprise network using Cisco Packet Tracer for routing, VLANs, and security. |
+| [**Splunk Detection Home Lab**](https://github.com/hknapp518/Detection-HomeLab) | Developed a custom home lab environment leveraging Splunk to perform log ingestion, correlation, and threat detection based on simulated security events. |
+| [**Tenable Vulnerability Management**](https://github.com/hknapp518/Tenable-Vulnerability-Managment) | Conducted vulnerability assessments using Tenable.io and Nessus; analyzed scan results and generated remediation reports for risk prioritization. |
+| [**Active Directory Enterprise Lab**](https://github.com/hknapp518/Active-Directory) | Deployed an enterprise-level Active Directory environment on Windows Server 2019 with 100 users, group policies (GPOs), OU structures, and permissions modeling. |
+| [**Azure Honeypot**](https://github.com/hknapp518/AzureHoneyPot) | Designed and deployed honeypots in Microsoft Azure to capture and analyze malicious traffic, attacker behavior, and telemetry data in a cloud environment. |
+| [**Cisco Packet Tracer Network**](https://github.com/hknapp518/Cisco-Packet-Tracer-Network) | Built and simulated a multi-layer enterprise network using Cisco Packet Tracer, incorporating VLANs, routing protocols, and basic security configurations. |
+
 
 
 
