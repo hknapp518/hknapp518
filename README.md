@@ -32,7 +32,7 @@ To gain practical, real-world experience through hands-on labs and projects that
 |--------|-------------|
 | [**Splunk Detection Home Lab**](https://github.com/hknapp518/Detection-HomeLab) | Developed a custom home lab environment leveraging Splunk to perform log ingestion, correlation, and threat detection based on simulated security events. |
 | [**Tenable Vulnerability Management**](https://github.com/hknapp518/Tenable-Vulnerability-Managment) | Conducted vulnerability assessments using Tenable.io and Nessus; analyzed scan results and generated remediation reports for risk prioritization. |
-| [**Active Directory Enterprise Lab**](https://github.com/hknapp518/Active-Directory) | Deployed an enterprise-level Active Directory environment on Windows Server 2019 with 100 users, group policies (GPOs), OU structures, and permissions modeling. |
+| [**Active Directory Enterprise Lab**](https://github.com/hknapp518/Active-Directory) | Deployed an enterprise-level Active Directory environment on Windows Server 2019 with 100 users, group policies (GPOs), OU structures, and permissions modeling an enterprise.
 | [**Azure Honeypot**](https://github.com/hknapp518/AzureHoneyPot) | Designed and deployed honeypots in Microsoft Azure to capture and analyze malicious traffic, attacker behavior, and telemetry data in a cloud environment. |
 | [**Cisco Packet Tracer Network**](https://github.com/hknapp518/Cisco-Packet-Tracer-Network) | Built and simulated a multi-layer enterprise network using Cisco Packet Tracer, incorporating VLANs, routing protocols, and basic security configurations. |
 
