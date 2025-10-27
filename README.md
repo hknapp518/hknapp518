@@ -38,8 +38,6 @@ I use GitHub to document real-world security projects, from automating complianc
 | [**Tenable Vulnerability Management**](https://github.com/hknapp518/Tenable-Vulnerability-Managment)                                                                | Performed vulnerability scanning and assessment using Tenable.io and Nessus, automated report generation, and prioritized remediation to reduce organizational risk exposure.                           |
 | [**Active Directory Enterprise Lab**](https://github.com/hknapp518/Active-Directory)                                                                                | Deployed a simulated enterprise Active Directory domain with 1,000 users, GPOs, and OU structures to model real-world user and permissions management for incident response and access control testing. |
 
-                            |
-
 
 
 
