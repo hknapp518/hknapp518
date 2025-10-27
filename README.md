@@ -30,18 +30,14 @@ I use GitHub to document real-world security projects, from automating complianc
 
 ---
 
-## Featured Projects
+| Project                                                                                                                                                             | Description                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Splunk Detection Home Lab**](https://github.com/hknapp518/Detection-HomeLab)                                                                                     | Built a custom home lab using Splunk for log ingestion, correlation, and alerting based on simulated attacks. Designed detection rules and dashboards to analyze Windows, firewall, and endpoint logs.  |
+| [**Azure Honeypot**](https://github.com/hknapp518/AzureHoneyPot)                                                                                                    | Designed and deployed honeypots in Microsoft Azure to capture and analyze malicious traffic and attacker behavior, generating telemetry data for threat hunting and security analytics.                 |
+| [**Microsoft 365 Cloud Security & Compliance Lab** (In Progress)](https://github.com/hknapp518/Microsoft-365-Cloud-Security-Compliance-Lab-NIST-800-171-Alignment-) | Built a secure Microsoft 365 and Azure environment aligned with NIST 800-171 controls. Implemented Conditional Access, role-based access, and Defender for Cloud Apps to enforce Zero Trust principles. |
+| [**Tenable Vulnerability Management**](https://github.com/hknapp518/Tenable-Vulnerability-Managment)                                                                | Performed vulnerability scanning and assessment using Tenable.io and Nessus, automated report generation, and prioritized remediation to reduce organizational risk exposure.                           |
+| [**Active Directory Enterprise Lab**](https://github.com/hknapp518/Active-Directory)                                                                                | Deployed a simulated enterprise Active Directory domain with 1,000 users, GPOs, and OU structures to model real-world user and permissions management for incident response and access control testing. |
 
-
-
-| Project                                                                                                                                               | Description                                                                                                                                                                                |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-                                                          |
-| [**Splunk Detection Home Lab**](https://github.com/hknapp518/Detection-HomeLab)                                                                       | Developed a custom home lab leveraging Splunk to perform log ingestion, correlation, and threat detection based on simulated security events.                                              |
-| [**Tenable Vulnerability Management**](https://github.com/hknapp518/Tenable-Vulnerability-Managment)                                                  | Conducted vulnerability assessments using Tenable.io and Nessus; analyzed scan results and generated remediation reports for risk prioritization.                                  |
-| [**Active Directory Enterprise Lab**](https://github.com/hknapp518/Active-Directory)                                                                  | Deployed an enterprise-level Active Directory environment on Windows Server 2019 with 1,000 users, group policies (GPOs), OU structures, and permissions modeling an enterprise setup. |
-| [**Azure Honeypot**](https://github.com/hknapp518/AzureHoneyPot)                                                                                      | Designed and deployed honeypots in Microsoft Azure to capture and analyze malicious traffic, attacker behavior, and telemetry data in a cloud environment.    
-| [**Microsoft 365 Cloud Security & Compliance Lab**(In Progress)](https://github.com/hknapp518/Microsoft-365-Cloud-Security-Compliance-Lab-NIST-800-171-Alignment-) | Developed a lab in Azure with five custom roles, showcasing a real-world environment implementing NIST 800-171 compliance.   |
                             |
 
 
