@@ -5,7 +5,6 @@
 I’m a Cybersecurity Analyst specializing in Microsoft Cloud Security, Threat Detection, and Automation.
 With over 4 years of hands-on experience in cybersecurity, networking, and cloud environments, I focus on building and securing modern infrastructures using tools like Microsoft Defender, Sentinel, and Entra ID.
 
-I use GitHub to document real-world security projects, from automating compliance checks with PowerShell and Python to designing secure Azure environments aligned with Zero Trust principles.
 
 ---
 
