@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/harrison-knapp-175aes" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 I’m a Cybersecurity Analyst specializing in Microsoft Cloud Security, Threat Detection, and Automation.
-With over 4 years of hands-on experience in cybersecurity, networking, Microsoft Intune, Powershell scripts, and cloud environments, I focus on building and securing modern infrastructures using tools like Microsoft Defender, Sentinel, and Entra ID.
+With over 4 years of hands-on experience in Cybersecurity, Networking, Microsoft Intune, Powershell Scripts, and Azure, I focus on building and securing modern infrastructures using tools like Microsoft Defender, Sentinel, and Entra ID.
 
 
 ---
