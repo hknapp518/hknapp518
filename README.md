@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/harrison-knapp-175aes" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 I’m a Cybersecurity Analyst specializing in Microsoft Cloud Security, Threat Detection, and Automation.
-With over 4 years of hands-on experience in cybersecurity, networking, and cloud environments, I focus on building and securing modern infrastructures using tools like Microsoft Defender, Sentinel, and Entra ID.
+With over 4 years of hands-on experience in cybersecurity, networking, Microsoft Intune, Powershell scripts, and cloud environments, I focus on building and securing modern infrastructures using tools like Microsoft Defender, Sentinel, and Entra ID.
 
 
 ---
@@ -31,11 +31,12 @@ With over 4 years of hands-on experience in cybersecurity, networking, and cloud
 
 | Project                                                                                                                                                             | Description                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Intune Endpoint Lifecycle & BitLocker Compliance**](https://github.com/hknapp518/intune-endpoint-lifecycle)                                                     | Built detection and remediation scripts for BitLocker in a Microsoft Intune environment. Documented the full Proactive Remediation workflow, including hardware inventory, endpoint compliance checking, and automated remediation using TPM and recovery password, aligned with enterprise endpoint management practices. |
 | [**Splunk Detection Home Lab**](https://github.com/hknapp518/Detection-HomeLab)                                                                                     | Built a custom home lab using Splunk for log ingestion, correlation, and alerting based on simulated attacks. Designed detection rules and dashboards to analyze Windows, firewall, and endpoint logs.  |
 | [**Azure Honeypot**](https://github.com/hknapp518/AzureHoneyPot)                                                                                                    | Designed and deployed honeypots in Microsoft Azure to capture and analyze malicious traffic and attacker behavior, generating telemetry data for threat hunting and security analytics.                 |
-| [**Microsoft 365 Cloud Security & Compliance Lab** (In Progress)](https://github.com/hknapp518/Microsoft-365-Cloud-Security-Compliance-Lab-NIST-800-171-Alignment-) | Built a secure Microsoft 365 and Azure environment aligned with NIST 800-171 controls. Implemented Conditional Access, role-based access, and Defender for Cloud Apps to enforce Zero Trust principles. |
 | [**Tenable Vulnerability Management**](https://github.com/hknapp518/Tenable-Vulnerability-Managment)                                                                | Performed vulnerability scanning and assessment using Tenable.io and Nessus, automated report generation, and prioritized remediation to reduce organizational risk exposure.                           |
 | [**Active Directory Enterprise Lab**](https://github.com/hknapp518/Active-Directory)                                                                                | Deployed a simulated enterprise Active Directory domain with 1,000 users, GPOs, and OU structures to model real-world user and permissions management for incident response and access control testing. |
+| [**Microsoft 365 Cloud Security & Compliance Lab (In Progress)**](https://github.com/hknapp518/Microsoft-365-Cloud-Security-Compliance-Lab-NIST-800-171-Alignment-) | Built a secure Microsoft 365 and Azure environment aligned with NIST 800-171 controls. Implemented Conditional Access, role-based access, and Defender for Cloud Apps to enforce Zero Trust principles. |
 
 
 
