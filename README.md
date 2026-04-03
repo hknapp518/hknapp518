@@ -2,7 +2,11 @@
 
 <a href="https://www.linkedin.com/in/harrison-knapp-175aes" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-Cybersecurity analyst with hands-on experience in security operations, threat detection, and vulnerability management across cloud and enterprise environments. Skilled in SIEM monitoring using Microsoft Sentinel and Splunk along with XDR investigations using Microsoft Defender for Endpoint, with experience developing detection rules and investigating indicators of compromise aligned to the MITRE ATT&CK framework. Proven ability to reduce organizational risk through vulnerability remediation using Tenable Nessus and automated security controls with PowerShell. Holds multiple industry certifications and a B.S. in Cybersecurity, with strong experience across Azure, cloud identity, and enterprise security operations.
+I’m an Azure-focused System Administrator with a strong foundation in cloud infrastructure, security, and automation, working toward becoming a Cloud Security Engineer.
+
+I have hands-on experience deploying and securing Azure environments using Infrastructure as Code (Bicep), managing identity and access with Microsoft Entra ID, and monitoring threats using Microsoft Sentinel and Defender for Cloud. My work focuses on protecting sensitive healthcare data (HIPAA/PHI) by implementing secure architecture, RBAC, MFA, and data governance controls.
+
+I enjoy building real-world labs that simulate enterprise issues combining cloud engineering with security operations to better understand both how systems work and how they’re attacked.
 
 
 ---
@@ -16,15 +20,14 @@ Cybersecurity analyst with hands-on experience in security operations, threat de
 - Networking: Cisco switches, Ubiquiti firewalls, VPNs, VLANs, Azure NSGs
 
 ##  Certifications
+- Microsoft AZ-104
 - Microsoft AZ-500
-- CompTIA PenTest+
 - CompTIA CySA+
 - AWS Solutions Architect Associate
-- ISC2 Certified in Cybersecurity
 - CompTIA Security+
 - CompTIA Network+
 - CompTIA Project+
-- CompTIA A+
+
 
 ---
 
