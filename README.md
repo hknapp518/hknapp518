@@ -1,4 +1,4 @@
-👋 Hello, I'm Harrison
+
 
 <a href="https://www.linkedin.com/in/harrison-knapp-175aes" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
