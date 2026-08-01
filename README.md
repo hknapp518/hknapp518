@@ -12,7 +12,7 @@ I'm a Microsoft security professional focused on cloud security, data protection
 | [**Intune Endpoint Lifecycle & BitLocker Compliance**](https://github.com/hknapp518/intune-endpoint-lifecycle) | Built detection and remediation scripts for BitLocker in a Microsoft Intune environment. Documented the full Proactive Remediation workflow, including hardware inventory, endpoint compliance checking, and automated remediation using TPM and recovery password, aligned with enterprise endpoint management practices. |
 | [**Splunk Detection Home Lab**](https://github.com/hknapp518/Detection-HomeLab) | Built a custom home lab using Splunk for log ingestion, correlation, and alerting based on simulated attacks. Designed detection rules and dashboards to analyze Windows, firewall, and endpoint logs. |
 | [**Tenable Vulnerability Management**](https://github.com/hknapp518/Tenable-Vulnerability-Managment) | Performed vulnerability scanning and assessment using Tenable.io and Nessus, automated report generation, and prioritized remediation to reduce organizational risk exposure. |
-| [**Splunk Detection Home Lab**](https://github.com/hknapp518/Detection-HomeLab) | Built a custom home lab using Splunk for log ingestion, correlation, and alerting based on simulated attacks. Designed detection rules and dashboards to analyze Windows, firewall, and endpoint logs. |
+
                       |
 
 
