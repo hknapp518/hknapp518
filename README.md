@@ -2,31 +2,8 @@
 
 <a href="https://www.linkedin.com/in/harrison-knapp-175aes" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-I’m an Azure-focused security operations professional working toward becoming a cloud security engineer.
+I'm a Microsoft security professional focused on cloud security, data protection, and security operations. I build hands-on projects using Microsoft Azure, Microsoft Sentinel, Microsoft Purview, Microsoft Defender, Microsoft Entra ID, Splunk, PowerShell, and Python to demonstrate enterprise security architecture, threat detection, automation, and governance.
 
-I have experience deploying and securing Azure environments using Infrastructure as Code (Bicep), managing identity and access with Microsoft Entra ID, and monitoring threats using Microsoft Sentinel and Defender for Cloud. My work focuses on protecting sensitive healthcare data (HIPAA/PHI) by implementing secure architecture, RBAC, MFA, and data governance controls.
-
-
----
-
-##  Technical Focus
-
-- Cloud Security: Azure Security Center, Microsoft Defender for Cloud, Entra ID, Conditional Access, Intune
-- Threat Detection & Response: Microsoft Sentinel (KQL, analytics rules), Defender EDR/XDR, MITRE ATT&CK
-- Vulnerability & Compliance: Tenable.io, DISA STIG, NIST 800-53, CIS Benchmarks
-- Automation & Scripting: PowerShell, Python, Azure CLI, Bash
-- Networking: Cisco switches, Ubiquiti firewalls, VPNs, VLANs, Azure NSGs
-
-##  Certifications
-- Microsoft AZ-104
-- Microsoft SC-200
-- Microsoft AZ-500
-- CompTIA CySA+
-- CompTIA Security+
-- CompTIA Network+
-
-
----
 
 | Project | Description |
 |---|---|
@@ -36,7 +13,7 @@ I have experience deploying and securing Azure environments using Infrastructure
 | [**Splunk Detection Home Lab**](https://github.com/hknapp518/Detection-HomeLab) | Built a custom home lab using Splunk for log ingestion, correlation, and alerting based on simulated attacks. Designed detection rules and dashboards to analyze Windows, firewall, and endpoint logs. |
 | [**Tenable Vulnerability Management**](https://github.com/hknapp518/Tenable-Vulnerability-Managment) | Performed vulnerability scanning and assessment using Tenable.io and Nessus, automated report generation, and prioritized remediation to reduce organizational risk exposure. |
 | [**Splunk Detection Home Lab**](https://github.com/hknapp518/Detection-HomeLab) | Built a custom home lab using Splunk for log ingestion, correlation, and alerting based on simulated attacks. Designed detection rules and dashboards to analyze Windows, firewall, and endpoint logs. |
-| [**Tenable Vulnerability Management**](https://github.com/hknapp518/Tenable-Vulnerability-Managment) | Performed vulnerability scanning and assessment using Tenable.io and Nessus, automated report generation, and prioritized remediation to reduce organizational risk exposure. |                           |
+                      |
 
 
 
