@@ -1,11 +1,27 @@
-<a href="https://www.linkedin.com/in/harrison-knapp-175aes" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+# Harrison Knapp
 
-I'm a cybersecurity professional focused on Microsoft security, cloud security, data protection, and security operations. I build projects to apply enterprise security concepts across Microsoft Azure, Microsoft Sentinel, Microsoft Purview, Defender XDR, Entra ID, Splunk, PowerShell, and Python.
+### Cybersecurity Engineer | Azure Cloud Security | Microsoft Security | Detection Engineering
 
-My projects focus on building, testing, and investigating security controls across data protection, detection engineering, and security operations.
+Cybersecurity engineer focused on designing, implementing, testing, and improving security controls across cloud infrastructure, identity, data protection, and security operations. My work centers on the Microsoft security ecosystem, with hands-on experience building secure Azure architectures, investigating security events, developing detections, and validating controls against real-world failure scenarios.
 
-| Project | Description |
+**Core Technologies:** Azure • Entra ID • Microsoft Sentinel • Defender XDR • Intune • KQL • PowerShell • Microsoft Purview • Splunk
+
+**Certifications:** AZ-500 • SC-200 • AWS Solutions Architect – Associate • CySA+ • Security+ • PenTest+
+
+<a href="https://www.linkedin.com/in/harrison-knapp-175aes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Harrison_Knapp-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+## Featured Security Engineering Projects
+
+| Project | Engineering Focus |
 | --- | --- |
-| [**Azure Healthcare Security Landing Zone**](https://github.com/hknapp518/Azure-Healthcare-Security-Landing-Zone) | Designed and validated a healthcare-focused Azure landing zone using Management Groups, Azure Policy, RBAC, hub-spoke networking, NSGs, Private Link, Key Vault, customer-managed encryption keys, centralized logging, and KQL detection. Tested security controls, identified and corrected policy scope and platform dependency issues, and documented remaining production gaps through a SOC 2/HIPAA security-readiness assessment. |
-| [**Microsoft Purview Data Security & Governance Lab**](https://github.com/hknapp518/Microsoft-Purview-Governance-Lab) | Built a Microsoft Purview data security lab covering sensitivity labels, custom Sensitive Information Types, DLP, policy testing, and security investigations. Created a NERC CIP-inspired BCSI use case that detects organization-specific sensitive data, blocks external sharing, generates Defender XDR alerts, and streams security telemetry through Azure Event Hub into Splunk for investigation. |
-| [**Splunk Detection Home Lab**](https://github.com/hknapp518/Detection-HomeLab) | Built a Splunk detection lab for log ingestion, correlation, investigation, and alerting using simulated security events. Developed detection rules and dashboards for Windows, firewall, and endpoint telemetry. |
+| [**Azure Healthcare Security Landing Zone**](https://github.com/hknapp518/Azure-Healthcare-Security-Landing-Zone) | Designed and validated a healthcare-focused Azure security architecture using Management Groups, Azure Policy, RBAC, hub-spoke networking, NSGs, Private Link, Key Vault, customer-managed encryption keys, centralized logging, and KQL. Tested controls, diagnosed policy scope and platform dependency failures, remediated the implemented controls, and documented production gaps through a SOC 2/HIPAA security-readiness assessment. |
+| [**Microsoft Purview Data Security & Governance**](https://github.com/hknapp518/Microsoft-Purview-Governance-Lab) | Engineered and tested Microsoft Purview data protection controls using sensitivity labels, custom Sensitive Information Types, DLP, and policy enforcement. Built a NERC CIP-inspired BCSI scenario that blocks unauthorized external sharing, generates Defender XDR alerts, and streams security telemetry through Azure Event Hub into Splunk for investigation. |
+| [**Splunk Detection Engineering Lab**](https://github.com/hknapp518/Detection-HomeLab) | Built a detection environment for security telemetry ingestion, correlation, investigation, and alerting. Developed detection logic and dashboards across Windows, firewall, and endpoint telemetry to investigate simulated security events. |
+
+## Engineering Approach
+
+I treat security controls as hypotheses that need to be validated, not just configurations that need to be deployed.
+
+**Design → Build → Test → Investigate → Remediate → Validate**
+
+My projects document both successful controls and the failures discovered during testing, including the evidence, investigation process, remediation decisions, and production-hardening recommendations.
