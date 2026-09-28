@@ -60,8 +60,6 @@
 
 </div>
 
-I treat security controls as hypotheses that need to be validated, not just configurations that need to be deployed. My projects document successful controls as well as failures discovered during testing—the evidence, investigation process, remediation decisions, detection improvements, and production-hardening recommendations.
-
 ### Areas of Focus
 
 ```text
