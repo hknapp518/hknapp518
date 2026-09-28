@@ -1,28 +1,99 @@
+<div align="center">
+
 # Harrison Knapp
 
-### Cybersecurity Engineer | Azure Cloud Security | Microsoft Security | Detection Engineering
+### Azure Cloud Security • Detection Engineering • DFIR
 
-Cybersecurity engineer focused on designing, implementing, testing, and improving security controls across cloud infrastructure, identity, data protection, and security operations. My work centers on the Microsoft security ecosystem, with hands-on experience building secure Azure architectures, investigating security events, developing detections, and validating controls against real-world failure scenarios.
+**Security Engineer building and validating controls across the Microsoft security ecosystem**
 
-**Core Technologies:** Azure • Entra ID • Microsoft Sentinel • Defender XDR • Intune • KQL • PowerShell • Microsoft Purview • Splunk
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harrison%20Knapp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrison-knapp-175aes)
+[![GitHub](https://img.shields.io/badge/GitHub-hknapp518-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hknapp518)
 
-**Certifications:** AZ-500 • SC-200 • CySA+ • Security+ • PenTest+
+![AZ-500](https://img.shields.io/badge/AZ--500-Azure%20Security-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![SC-200](https://img.shields.io/badge/SC--200-Security%20Operations-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![CySA+](https://img.shields.io/badge/CySA%2B-Security%20Analytics-EA1D2C?style=flat-square)
+![Security+](https://img.shields.io/badge/Security%2B-Cybersecurity-EA1D2C?style=flat-square)
+![PenTest+](https://img.shields.io/badge/PenTest%2B-Penetration%20Testing-EA1D2C?style=flat-square)
 
-<a href="https://www.linkedin.com/in/harrison-knapp-175aes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Harrison_Knapp-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 
-## Featured Security Engineering Projects
+---
+
+## Security Engineering Portfolio
+
+> I build security controls, test them against realistic failure scenarios, investigate what breaks, and use the evidence to improve the architecture and detections.
 
 | Project | Description |
 | --- | --- |
 | [**Azure Ransomware Honeypot — DFIR & Detection Engineering**](https://github.com/hknapp518/Azure-SQL-Honeypot-DFIR-) | Built and instrumented an Azure Windows/MySQL honeypot that captured 307 Windows logon events, 239 failed Windows logons, 73 failed MySQL authentications, 152 external MySQL connections, and 112 external root connections. Investigated a ransomware/extortion attack involving 34 destructive SQL operations and 5 high-impact administrative actions in ~3 seconds. Recovered 5,298 synthetic records, eliminated remote `root@'%'` access, hardened the original attack path, and engineered 3 incident-derived Sentinel detections, expanding coverage from 2 authentication rules to 5 enabled analytics. |
-| [**Azure Healthcare Security Landing Zone**](https://github.com/hknapp518/Azure-Healthcare-Security-Landing-Zone) | Designed and validated a healthcare-focused Azure security architecture using Management Groups, Azure Policy, RBAC, hub-spoke networking, NSGs, Private Link, Key Vault, customer-managed encryption keys, centralized logging, and KQL detection. Tested controls, diagnosed policy scope and platform dependency failures, remediated the implemented controls, and documented production gaps through a SOC 2/HIPAA security-readiness assessment. |
-| [**Microsoft Purview Data Security & Governance**](https://github.com/hknapp518/Microsoft-Purview-Governance-Lab) | Engineered and tested Microsoft Purview data protection controls using sensitivity labels, custom Sensitive Information Types, DLP, and policy enforcement. Built a NERC CIP-inspired BCSI scenario that blocks unauthorized external sharing, generates Defender XDR alerts, and streams security telemetry through Azure Event Hub into Splunk for investigation. |
+| [**Azure Healthcare Security Landing Zone**](https://github.com/hknapp518/Azure-Healthcare-Security-Landing-Zone) | Designed and validated a healthcare-focused Azure security architecture using Management Groups, Azure Policy, RBAC, hub-spoke networking, NSGs, Private Link, Key Vault, customer-managed encryption keys, centralized logging, and KQL detection. Tested controls, diagnosed policy scope and platform dependency failures, remediated implemented controls, and documented production gaps through a SOC 2/HIPAA security-readiness assessment. |
+| [**Microsoft Purview Data Security & Governance**](https://github.com/hknapp518/Microsoft-Purview-Governance-Lab) | Engineered and tested Microsoft Purview data-protection controls using sensitivity labels, custom Sensitive Information Types, DLP, and policy enforcement. Built a NERC CIP-inspired BCSI scenario that blocks unauthorized external sharing, generates Defender XDR alerts, and streams security telemetry through Azure Event Hub into Splunk for investigation. |
 | [**Splunk Detection Engineering Lab**](https://github.com/hknapp518/Detection-HomeLab) | Built a detection environment for security telemetry ingestion, correlation, investigation, and alerting. Developed detection logic and dashboards across Windows, firewall, and endpoint telemetry to investigate simulated security events. |
 
-## Engineering Approach
+---
 
-I treat security controls as hypotheses that need to be validated, not just configurations that need to be deployed.
+## Microsoft Security Stack
 
-**Design → Build → Test → Investigate → Remediate → Validate**
+<div align="center">
 
-My projects document both successful controls and the failures discovered during testing, including the evidence, investigation process, remediation decisions, and production-hardening recommendations.
+![Azure](https://img.shields.io/badge/Azure-Cloud%20Security-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-SIEM%20%2F%20SOAR-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+![Defender](https://img.shields.io/badge/Defender%20XDR-Endpoint%20%2F%20Identity-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
+![Entra](https://img.shields.io/badge/Entra%20ID-IAM%20%2F%20Zero%20Trust-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+![Intune](https://img.shields.io/badge/Intune-Endpoint%20Management-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-Detection%20Engineering-5C2D91?style=flat-square)
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Purview](https://img.shields.io/badge/Microsoft%20Purview-Data%20Security-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-000000?style=flat-square&logo=splunk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database%20Telemetry-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## How I Engineer Security
+
+<div align="center">
+
+### Design → Build → Test → Investigate → Remediate → Validate
+
+</div>
+
+I treat security controls as hypotheses that need to be validated, not just configurations that need to be deployed. My projects document successful controls as well as failures discovered during testing—the evidence, investigation process, remediation decisions, detection improvements, and production-hardening recommendations.
+
+### Areas of Focus
+
+```text
+Cloud Security        Azure architecture • network segmentation • Policy • Key Vault
+Identity Security     Entra ID • RBAC • Conditional Access • MFA • least privilege
+Detection Engineering Microsoft Sentinel • KQL • behavioral analytics • rule tuning
+Endpoint Security     Defender XDR • Intune • investigation • containment
+Data Security         Microsoft Purview • DLP • sensitive information protection
+DFIR                  Evidence collection • scoping • reconstruction • recovery
+Automation            PowerShell • Python • Azure CLI
+```
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hknapp518&theme=github-compact&hide_border=true&area=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hknapp518&theme=minimal&hide_border=true&area=true">
+  <img alt="Harrison Knapp GitHub contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=hknapp518&theme=github-compact&hide_border=true&area=true" width="100%" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### Security controls should be proven, not assumed.
+
+**Azure Cloud Security • Microsoft Security • Detection Engineering • DFIR**
+
+</div>
