@@ -73,27 +73,3 @@ Data Security         Microsoft Purview • DLP • sensitive information protec
 DFIR                  Evidence collection • scoping • reconstruction • recovery
 Automation            PowerShell • Python • Azure CLI
 ```
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hknapp518&theme=github-compact&hide_border=true&area=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hknapp518&theme=minimal&hide_border=true&area=true">
-  <img alt="Harrison Knapp GitHub contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=hknapp518&theme=github-compact&hide_border=true&area=true" width="100%" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-### Security controls should be proven, not assumed.
-
-**Azure Cloud Security • Microsoft Security • Detection Engineering • DFIR**
-
-</div>
